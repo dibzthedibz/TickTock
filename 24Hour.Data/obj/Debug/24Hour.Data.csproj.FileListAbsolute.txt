@@ -33,3 +33,6 @@ S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hou
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Data\obj\Debug\24Hour.Data.csproj.CopyComplete
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Data\obj\Debug\24Hour.Data.dll
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Data\obj\Debug\24Hour.Data.pdb
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Data\obj\Debug\_24Hour.Data.Migrations.InitialCreate.resources
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Data\obj\Debug\24Hour.Data.csproj.GenerateResource.cache
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Data\obj\Debug\_24Hour.Data.Migrations.CommentCreated.resources
