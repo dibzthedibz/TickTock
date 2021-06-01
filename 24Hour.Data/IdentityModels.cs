@@ -1,7 +1,15 @@
 ﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
+using System.Data.Entity;
 using System.Security.Claims;
 using System.Threading.Tasks;
+
+/// <summary>
+/// I added
+/// </summary>
+
+using System.Data.Entity.ModelConfiguration;
+using System.Data.Entity.ModelConfiguration.Conventions;
 
 namespace _24Hour.Data
 {
@@ -28,5 +36,13 @@ namespace _24Hour.Data
         {
             return new ApplicationDbContext();
         }
+        /// <summary>
+        /// I added
+        /// </summary>
+        public DbSet<Post> Posts { get; set; }
     }
+
+
+    
+
 }
