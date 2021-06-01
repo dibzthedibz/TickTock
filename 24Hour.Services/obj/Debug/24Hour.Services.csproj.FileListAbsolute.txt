@@ -1,0 +1,6 @@
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Services\bin\Debug\24Hour.Services.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Services\bin\Debug\24Hour.Services.pdb
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Services\obj\Debug\24Hour.Services.csproj.AssemblyReference.cache
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Services\obj\Debug\24Hour.Services.csproj.CoreCompileInputs.cache
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Services\obj\Debug\24Hour.Services.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\TickTock(24Hours)\24Hour\24Hour.Services\obj\Debug\24Hour.Services.pdb
